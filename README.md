@@ -30,6 +30,8 @@ It helps in understanding sales trends, top-performing products, and revenue ins
 * Dataset (CSV/Excel)
 * Screenshots
 
-🔹 Author
-
 **Omkar Lad**
+📊 Aspiring Data Analyst
+
+🔗 GitHub: https://github.com/omkarlad09
+🔗 linkedin: www.linkedin.com/in/omkar-lad07
